@@ -6,6 +6,9 @@
             "gjendja": "12"
         },
         {
+            
+        },
+        {
             "emri": "Arsimi ne syt e mi",
             "autori": "Tom",
             "gjendja": "5"
@@ -164,7 +167,7 @@
         {
         
            "emri":"Citadela",
-           "autori": "Tom",
+            "autor":"Tom",
            "gjendja":"1"
     
         },
@@ -2589,6 +2592,1531 @@
             "autori":"Tom",
             "gjendja":""
     
+        },
+        {   
+    
+            "emri":"Bijet e shpatesh Shqipetare",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Bibliografia",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Asim Vokoshi",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Aleks Caci 'vepra letrare'",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Ata e nisen rrugen nga 'shkolla Tregtare'",
+            "autori":"Tom",
+            "gjendja":"2"
+    
+        },
+        {   
+    
+            "emri":"Bazat e gjeografis fizike",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"C'thone e c'kerkojne Kosovaret",
+            "autori":"Tom",
+            "gjendja":"2"
+    
+        },
+        {   
+    
+            "emri":"C'eshtje e historise agrare",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Ceshtje teorike te estetikes dhe kultures",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Buke e pushke",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Historia e shqiperise",
+            "autori":"Tom",
+            "gjendja":"2"
+    
+        },
+        {   
+    
+            "emri":"Femijet tane",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Gjurmimi ne epoken e rilindjes",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Entologjia ne popullin shqipetar",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Edukimi parashkollor",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Etnografia shqipetare",
+            "autori":"Tom",
+            "gjendja":"2"
+    
+        },
+        {   
+    
+            "emri":"Dokumente ne Shqipei e shek.XVIII",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Historia e alfabetit ne gjuhen shqipe",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Historia e luftes antifashiste",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Historia e kimis",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Hysni Kapos",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Heronjte e luftes antifashiste",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Parkimet themelore te kryqit te kuq",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+   
+
+        },
+        {   
+    
+            "emri":"Programe lendore 9-vjecare",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Programe lendore pedagogjike",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Proceset e te ngrohtit dhe te ftohtit",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Revista pedagogjike",
+            "autori":"Tom",
+            "gjendja":"9"
+    
+        },
+        {   
+    
+            "emri":"Reforma e rrugve arsimore ne rruget e evropes",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {  "emri":"Rracizmi i shpjeguar vajzes sime",
+            "autori":"Tom",
+            "gjendja":"3"
+    
+        },
+        {   
+    
+            "emri":"Studime historike",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Studime per problemin e mesimdhenies",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Selinivica",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Shkollate e para kombetare shqipe",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Shota dhe Adem Galica",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Shkrime mbi letersine per femij",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Trupi yne",
+            "autori":"Tom",
+            "gjendja":"11"
+    
+        },
+        {   
+    
+            "emri":"Tregime per sende qe ke rreth meje",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Probleme psikopedagogjike",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Te drejtat e mia",
+            "autori":"Tom",
+            "gjendja":"21"
+    
+        },
+        {   
+    
+            "emri":"Pushimi dhe shendeti juaj",
+            "autori":"Tom",
+            "gjendja":"2"
+    
+        },
+        {   
+    
+            "emri":"Udhrefyes per trupin e njerezve",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"vlersimi i pare kombetar i arritjeve te nx",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Vajza dhe trafikimi",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Veprimtaareiae shtetit te ri te demokracis",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"100 vjetori i mesonjtores shqipe",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Zef Jabuni",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Vershimet e vjeshtes",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Vepra letrare",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Vepra ne rrjedhat e historis",
+            "autori":"Tom",
+            "gjendja":"2"
+    
+        },
+        {   
+    
+            "emri":"Poezi dhe poeme",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Vite pa thinja",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Valet e dimrit te zi",
+            "autori":"Tom",
+            "gjendja":""
+    
+        },
+        {   
+    
+            "emri":"Vepra te zgjedhura",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Vite dhe inaugurime",
+            "autori":"Tom",
+            "gjendja":"2"
+    
+        },
+        {   
+    
+            "emri":"Xhepat e gjyshes",
+            "autori":"Tom",
+            "gjendja":"16"
+    
+        },
+        {   
+    
+            "emri":"Tregime te reja",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Ylli vogel lart ne qiell",
+            "autori":"Tom",
+            "gjendja":"5"
+    
+        },
+        {   
+    
+            "emri":"20000 lega nen det",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Libri i xhungles",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Lahuta e malesise",
+            "autori":"Tom",
+            "gjendja":"2"
+    
+        },
+        {   
+    
+            "emri":"Lufta e kosoves",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Lufta e trojes",
+            "autori":"Tom",
+            "gjendja":"2"
+    
+        },
+        {   
+    
+            "emri":"Laraska pa bisht",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Lejleku prej qelqi",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Lule te vezme",
+            "autori":"Tom",
+            "gjendja":"3"
+    
+        },
+        {   
+    
+            "emri":"Lajmetaret e pranveres",
+            "autori":"Tom",
+            "gjendja":"3"
+    
+        },
+        {   
+    
+            "emri":"Lundroj ne mendimet e mija",
+            "autori":"Tom",
+            "gjendja":"13"
+    
+        },
+        {   
+    
+            "emri":"Conoscere",
+            "autori":"Tom",
+            "gjendja":"20"
+    
+        },
+        {   
+    
+            "emri":"Programa lingua azione",
+            "autori":"Tom",
+            "gjendja":"10"
+    
+        },
+        {   
+    
+            "emri":"Atti della conferenza nazionale",
+            "autori":"Tom",
+            "gjendja":"10"
+    
+        },
+        {   
+    
+            "emri":"All that glitters",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Shock wave",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+   
+
+        },
+        {   
+    
+            "emri":"Woman like us",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Let the bell ring",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Agi girls best friends",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Aprill shadous",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Portrait in spetia",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Gracles sin",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"A pennyworth of sunshine",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The night manager",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Poet and dancer",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Thyme out",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Impoiant",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"You are my sunshine",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The prisoner of zenda",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The puffi book of pets stories",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Sacred hearts",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The golden globet",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Jumbo",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The sun in the sands",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The lucky duck song",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The grapes erath",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The monsters inside",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Greate gilly hopkins",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The borrowers",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Whwn the martians land in hudders field",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Through the five senses",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The opposite of chocolate",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Three of luck",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The smith of smiths",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The alreadell lemon sky",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The warst witch",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Lets get ceresar",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The strollers",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Doghter of Fourtune",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"A little badness",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Single lives",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Samraj",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Land of the living",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The chains of albian",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The girl who played with fire",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The paln of Birdsmarsh",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The mirache strain",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Pit bank wench",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Hold the dream",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Dunston quest",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Assassin quest",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The pauer of one",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Come clean",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The help",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Catch eye",
+            "autori":"Tom",
+            "gjendja":""
+    
+   
+
+        },
+        {   
+    
+            "emri":"The weather witch",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"In search of exellence",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Kate emma",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The tample of the golden pavilion",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Sis for space",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Queen of stones",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The rise of house",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Historia pa mbarim",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Coming alive",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The digital photography",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"A manual of photography",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Saigon",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The milionare",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"No suspitious anscunstances",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Great pany story",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Smak bag the king",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The animal ark collection",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The conjuar",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Il richiamo della foresta",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Saigon",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Great pany story",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Living stones lake",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The six waves of henry VIII",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Honest their father",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Josephin cox",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            
+            "emri":"The irish princess",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Wicker beauty",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Unexepting blessing",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Ranking davils",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Six wives",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Two silver sosser",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"First among equal",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Trail of the pctopus",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Foxbat",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Pack up your trovolo",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Promising",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The house of the seven",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The roald Daht Treasury",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The family",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The iron woman",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The battle of tehe muck farm",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Perralla",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The old wives take",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The swiss family robinson",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The year ti will be different",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The hurdless love",
+            "autori":"Tom",
+            "gjendja":"2"
+    
+        },
+        {   
+    
+            "emri":"The get-away iteam",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Treasure island",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The mills of space",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+   
+
+        },
+        {   
+    
+            "emri":"The eleventh commandment",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The killing ground",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"A world book day book",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The show spider triology",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The edge",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The prsifal mosaic",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Molly Moon hyptonic holiday",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The sadle club",
+            "autori":"Tom",
+            "gjendja":"2"
+    
+        },
+        {   
+    
+            "emri":"The devil was handsome",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Tobys iceberg",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The sculptor",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Time stops for no mouse",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The burinig girl",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The best of friends",
+            "autori":"Tom",
+            "gjendja":""
+    
+        },
+        {   
+    
+            "emri":"The fox busters",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The black velvet gown",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The cothian run",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The mistery of the whale tatto",
+            "autori":"Tom",
+            "gjendja":"2"
+    
+        },
+        {   
+    
+            "emri":"Yes Minister",
+            "autori":"Tom",
+            "gjendja":"2"
+    
+        },
+        {   
+    
+            "emri":"Dream gold",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Wings for icarus",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Dosh",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Narnia prince Caspian",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Tiny the terrier",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"How to avoid kissing your mom",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Unspum socks",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Romen kalbri",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"bOOK OF PRAYERS",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Thirteen unpredictable tales",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Robin anual",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The dandy book",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"My color book of fairy",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The tropical times football book",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The broons and our wllice",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The songs that sings the birds",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"My picture time",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"pupertr",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"speed",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Boys annual",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Captain Britain",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The new scout",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The brons",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"Maveriak",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The fun to earn",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The dandy",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"The look to learnbook",
+            "autori":"Tom",
+            "gjendja":"1"
+    
+        },
+        {   
+    
+            "emri":"part pat",
+            "autori":"Tom",
+            "gjendja":"1"
+    
         }
     ]}
-    
